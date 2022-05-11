@@ -1,0 +1,47 @@
+
+.f{
+    display:flex;
+    padding:10% 10% 10% 0%;
+    justify-content: center;
+}
+
+.f1{
+    border: 2px solid black;
+    font-style: bold;
+    font-size:xx-large;
+    
+    width:50%;
+    text-align: center;
+    padding:4% 2% 4% 2%;
+    background-color: rgb(247, 202, 209);
+}
+
+.f11{
+color:aqua;
+}
+.f2{
+    border: 2px solid black; 
+    font-style: bold;
+    font-size:xx-large;
+    width:50%;
+    text-align: center;
+    padding:4% 2% 4% 2%;
+    background-color: rgb(228, 163, 219);
+}
+.f22{
+    color:aqua;
+    }
+    .f3{
+        border: 1px solid pink;
+        background-color: blue;
+        color:white;
+        padding:10%;
+        margin:30% 5% 5% 10%;
+    }
+    .f5{
+        border: 1px solid pink;
+        background-color: blue;
+        color:white;
+        padding:10%;
+        margin:30% 5% 5% 10%;
+    }
